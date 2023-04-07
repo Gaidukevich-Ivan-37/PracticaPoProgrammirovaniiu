@@ -8,7 +8,7 @@
 
             int num, fir, sec, thi, fou, mul;
 
-            Console.Write(" Введите двузначное число num: ");
+            Console.Write(" Введите четырёхзначное число num: ");
             num = Convert.ToInt32(Console.ReadLine());
 
             if (num >= 1000 && num <= 9999)

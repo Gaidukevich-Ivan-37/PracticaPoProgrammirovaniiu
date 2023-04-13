@@ -1,6 +1,6 @@
 ﻿namespace Задание__4
 {
-    class Array
+    class Factorial
     {
         static void Main()
         {

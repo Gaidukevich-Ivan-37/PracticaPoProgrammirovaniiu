@@ -1,4 +1,4 @@
-﻿namespace Задание__4
+﻿namespace Задание__5
 {
     class Factorial
     {

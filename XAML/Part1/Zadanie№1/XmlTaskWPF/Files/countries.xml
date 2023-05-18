@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<countries>
+  <person name="Belarus">
+    <area>207600</area>
+    <population>9200617</population>
+  </person>
+  
+  <person name="Russia">
+    <area>17100000</area>
+    <population>146424729</population>
+  </person>
+</countries>
